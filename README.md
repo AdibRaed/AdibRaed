@@ -20,13 +20,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineering @ University of Waterloo 
 ----------------------
 
-I'm Adib, a 2nd year Software Engineering student at UWaterloo. Looking for internships Jan-Apr 2024. 
+I'm Adib, a 3rd year Software Engineering student at UWaterloo. Looking for internships Jan-Aug 2026. 
 
 * 🌍  I'm based in Waterloo, ON Canada.
-* 🖥️  See my portfolio at [MyPortfolio](http://linkedin.com/in/adibraed/) and my [Resume](https://docs.google.com/document/d/1q5fdF7QNGKP-XS2qdPSP_zGfHWuWs982T0XrqoZaBpY/).
+* 🖥️  See my LinkedIn at [MyPortfolio](http://linkedin.com/in/adibraed/).
 * ✉️  You can contact me at [adib.raed3@gmail.com](mailto:adib.raed3@gmail.com).
-* 🧠  I'm learning Full Stack Web Development in JavaScript, React, Node, Express, NoSQL, Python and more.
-* 🤝  Previously employed at Tech Mahindra. 
+* 🧠  I'm learning Full Stack Web Development in Go, JavaScript, C#, React, Node, Express, NoSQL, Python and more.
+* 🤝  Previously employed at Adentro. 
 * ⚡  Would LOVE to chat over Zoom or grab a coffee together in-person! (my treat)
 
 ### Skills
