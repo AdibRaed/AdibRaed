@@ -20,7 +20,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineering @ University of Waterloo 
 ----------------------
 
-I'm Adib, a 3rd year Software Engineering student at UWaterloo. Looking for internships Jan-Aug 2026. 
+I'm Adib, a 4th year Software Engineering student at UWaterloo. Looking for internships Jan-Aug 2026. 
 
 * 🌍  I'm based in Waterloo, ON Canada.
 * 🖥️  See my LinkedIn at [MyPortfolio](http://linkedin.com/in/adibraed/).
